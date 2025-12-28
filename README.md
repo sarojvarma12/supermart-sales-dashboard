@@ -40,13 +40,14 @@ Profits fluctuate significantly, with July showing losses.
 Printers and Bookcases are the most profitable sub-categories.
 
 **Features:**
-KPI Tracking: Displays key metrics such as total sales, profit, quantity sold, and average order value.
-Regional Analysis: Breaks down sales performance by state, highlighting top-performing regions across India.
-Category Insights: Shows product category distribution (Clothing, Electronics, Furniture) to identify best-selling categories.
-Customer Analysis: Highlights top customers contributing to revenue, enabling better customer relationship management.
-Payment Mode Trends: Visualizes customer payment preferences (COD, UPI, Debit, Credit).
-Profit Trends: Monthly profit analysis to identify seasonal highs and lows.
-Sub-Category Profitability: Pinpoints the most profitable product sub-categories (Printers, Bookcases, Saree, etc.).
+- KPI Tracking: Displays key metrics such as total sales, profit, quantity sold, and average order value. 
+- Regional Analysis: Breaks down sales performance by state, highlighting top-performing regions across India.
+- Category Insights: Shows product category distribution (Clothing, Electronics, Furniture) to identify best-selling categories.
+- Customer Analysis: Highlights top customers contributing to revenue, enabling better customer relationship management.
+- Payment Mode Trends: Visualizes customer payment preferences (COD, UPI, Debit, Credit).
+- Profit Trends: Monthly profit analysis to identify seasonal highs and lows.
+- Sub-Category Profitability: Pinpoints the most profitable product sub-categories (Printers, Bookcases, Saree, etc.).
+
 
 <img width="882" height="493" alt="image" src="https://github.com/user-attachments/assets/b59a1426-c310-490e-a446-419ae9872f69" />
 
