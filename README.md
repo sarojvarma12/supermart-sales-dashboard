@@ -14,10 +14,10 @@ Average Order Value (AOV): ₹121K
 These KPIs give a quick snapshot of overall business performance.
 
 **Visualizations:**
-Sales by State: Maharashtra (~₹100K), Madhya Pradesh (~₹50K), Uttar Pradesh (~₹25K)
+Sales by State (Column Chart): Maharashtra (~₹100K), Madhya Pradesh (~₹50K), Uttar Pradesh (~₹25K)
 Quantity by Category (Donut Chart): Clothing (63%), Electronics (21%), Furniture (17%)
 Profit by Month (Bar Chart): Highest profits in January & September (~₹5K each), losses in July
-Sales by Customer (Bar Chart): Harivansh (~₹10K), Madhav (~₹7K), Madan Mohan (~₹7K), Shiva (~₹6K)
+Sales by Customer (Column Chart): Harivansh (~₹10K), Madhav (~₹7K), Madan Mohan (~₹7K), Shiva (~₹6K)
 Quantity by Payment Mode (Donut Chart): COD (44%), Debit (23%), UPI (21%), Credit (12%)
 Profit by Sub-Category (Bar Chart): Printers (~₹10K), Bookcases (~₹7K), Saree (~₹5K), Accessories (~₹4K), Tables (~₹3K)
 
@@ -43,5 +43,6 @@ Payment Mode Trends: Visualizes customer payment preferences (COD, UPI, Debit, C
 Profit Trends: Monthly profit analysis to identify seasonal highs and lows.
 Sub-Category Profitability: Pinpoints the most profitable product sub-categories (Printers, Bookcases, Saree, etc.).
 
-<img width="876" height="494" alt="image" src="https://github.com/user-attachments/assets/aa2631f7-f450-4b0c-b4b6-ae94840bbfff" />
+<img width="882" height="493" alt="image" src="https://github.com/user-attachments/assets/b59a1426-c310-490e-a446-419ae9872f69" />
+
 
